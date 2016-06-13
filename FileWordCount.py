@@ -19,6 +19,6 @@ for line in f:
 #print d
 
 for k,v in word.items():
-    print 'The word '+k+' has occured '+str(v)+' times, in the document Checking.txt'
+    print 'The word '+k+' has occurred '+str(v)+' times, in the document Checking.txt'
     
     

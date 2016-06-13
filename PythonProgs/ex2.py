@@ -5,7 +5,7 @@ Created on Fri Jun 03 12:01:03 2016
 @author: Varoon
 """
 
-#remeber . is a current working directory
+#remember . is a current working directory
 
 import os
 import sys
