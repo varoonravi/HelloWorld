@@ -26,7 +26,7 @@ for i in l:
         d[i] = 1
         
 for k,v in d.items():
-    print k+' has occured ' + str(v) + ' times'
+    print k+' has occurred ' + str(v) + ' times'
     
     
 
